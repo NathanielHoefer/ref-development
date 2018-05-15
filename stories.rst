@@ -1,4 +1,4 @@
-tories:
+Stories:
 Short descriptions of a small piece of desired functionality, written in the user's language.
 
 Life cycle:
