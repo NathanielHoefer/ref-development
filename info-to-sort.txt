@@ -1,2 +1,8 @@
 Container to develop, deploy, and run applications.
  - Docker - https://docs.docker.com/get-started/
+
+
+Set up pre-commit hook script that does the following:
+1. Verifies formatting - pep8, pep257
+2. Verifies coverage - coverage
+3. Executes tests - unittest
