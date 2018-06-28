@@ -5,6 +5,28 @@ Python Info To Sort
 .. contents:: Table of Contents
 
 ===============================================================================
+Info
+===============================================================================
+
+Module
+    Basic block for organizing code in Python, typically a single file
+
+Package
+    A module which can contain other modules
+
+sys.path
+    List of directories Python searches for modules
+
+PYTHONPATH
+    Environment variable listing paths added to sys.path
+
+Dunders
+*******
+
+- `__path__`: Returns list of paths where a package searches for modules
+- `__file__`: String indicating the path of a module
+
+===============================================================================
 Pip
 ===============================================================================
 Tool used for installing python packages
